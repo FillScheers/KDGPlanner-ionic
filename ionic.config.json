@@ -1,0 +1,8 @@
+{
+  "name": "kdg_planner_ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "d7536eff"
+}
